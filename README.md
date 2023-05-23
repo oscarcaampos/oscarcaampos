@@ -1,6 +1,6 @@
 # Oscar Campos - Desarrollador Full Stack
 
-👋 ¡Hola! Bienvenido/a a mi perfil de GitHub. Soy Oscar Campos, un apasionado desarrollador Full Stack con experiencia en una variedad de tecnologías. Me encanta crear aplicaciones web y móviles intuitivas y atractivas que brinden una gran experiencia de usuario. ¡Explora mis repositorios públicos y descubre mis proyectos!
+👋 ¡Hola! Bienvenido/a a mi perfil de GitHub. Soy Oscar Campos, un apasionado desarrollador Full Stack con experiencia en una variedad de tecnologías. Me encanta crear aplicaciones intuitivas y atractivas que brinden una gran experiencia de usuario. ¡Explora mis repositorios públicos y descubre mis proyectos!
 
 ## Tecnologías y Habilidades
 
