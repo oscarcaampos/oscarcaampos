@@ -7,16 +7,19 @@
 Aquí hay una lista de las tecnologías y habilidades con las que estoy familiarizado:
 
 - 💻 HTML5, CSS, SCSS
-- ☕ Java
 - 🌐 JavaScript, TypeScript
 - 🅰️ Angular
+- 🖼️ Vue.js
+- 🟩 Node.js
 - 🐍 Python
 - 🐘 PHP, Laravel
-- 🔧 ASP.net
+- ☕ Java
+- 📱 Flutter, Dart
 - ☁️ AWS
 - 📦 Firebase
 - 🍃 MongoDB
 - 🗃️ MySQL
+- 🐳 Docker
 
 ## Repositorios Destacados
 
